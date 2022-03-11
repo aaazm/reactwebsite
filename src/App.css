@@ -1,38 +1,95 @@
-.App {
+ul{
+  padding-left: 0;
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+img{
+  width: 100%;
+}
+
+.banner{
+  background: url(../src/images/bg-image-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 50px 0;
+  height: 700px;
+}
+
+.comn_mbr{
+    height: 500px;
+    background-size: cover;
+}
+.banner .carousel-caption{
+  top: 40%;
+  text-align: left;
+}
+.header{
+  position: absolute;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    width: 100%;
+    margin: 10px 0;
+    z-index: 2;
+}
+.header img{
+  width: 100px;
+}
+.navbar-nav .nav-link {
+  padding: 0 45px !important;
+  color: #fff;
+}
+.nv_link a{
+  color: #fff;
+  padding-right: 35px;
+  position: relative;
+  transition: .5s;
+}
+.nv_link a.active::before{
+  position: absolute;
+  content: '';
+  bottom: -5px;
+  width: 45px;
+  height: 3px;
+  background: red;
+}
+
+.crd{
+  padding: 10px;
+  border: 1px solid #c7c7c7;
+  border-radius: 6px;
+  box-shadow: 0 0 10px #bfbfbf;
+}
+.api_data{
   text-align: center;
+  row-gap: 10px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.slick-prev, .slick-next{
+  z-index: 1;
 }
+.slick-prev {
+  left: 0 !important;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.slick-next {
+  right: 0 !important;
+}
+.slick-dots li {
+  border: 1px solid #fff;
+  border-radius: 50%;
+}
+.slick-dots{
+  bottom: 18px !important;
+  z-index: 2;
+}
+.spin{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(77, 70, 70, 0.651);
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  align-items: center;
+  z-index: 2;
 }
