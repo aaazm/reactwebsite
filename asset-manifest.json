@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/reactwebsite.git/static/css/main.00547a85.css",
+    "main.js": "/reactwebsite.git/static/js/main.d48a79fd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactwebsite.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg-image-3.jpg": "/reactwebsite.git/static/media/bg-image-3.fb46f63a82602bf1f2fe.jpg",
+    "static/media/bg-image2.jpg": "/reactwebsite.git/static/media/bg-image2.623242a34cf729721cc5.jpg",
+    "static/media/bg-image-5.jpg": "/reactwebsite.git/static/media/bg-image-5.4e1cd2b145326f839f74.jpg",
+    "static/media/bg-image-4.jpg": "/reactwebsite.git/static/media/bg-image-4.8fbb1b0e4aa6fa39a20d.jpg",
+    "static/media/bg-image-1.jpg": "/reactwebsite.git/static/media/bg-image-1.39c9f1f30b2049c3a363.jpg",
+    "static/media/blog-4.jpg": "/reactwebsite.git/static/media/blog-4.e2dfdba9ad4cfb5f6f6a.jpg",
+    "static/media/blog-2.jpg": "/reactwebsite.git/static/media/blog-2.a8b89f80082e93ec75f9.jpg",
+    "static/media/blog-5.jpg": "/reactwebsite.git/static/media/blog-5.ba928570555b27493339.jpg",
+    "static/media/blog-3.jpg": "/reactwebsite.git/static/media/blog-3.605dfe2f74f9040e5ff9.jpg",
+    "static/media/blog-6.jpg": "/reactwebsite.git/static/media/blog-6.9bf382797a047c3c7945.jpg",
+    "static/media/blog-1.jpg": "/reactwebsite.git/static/media/blog-1.802ae73bbd911fbe310c.jpg",
+    "static/media/team-1.jpg": "/reactwebsite.git/static/media/team-1.34e4ff422fd51cfc60a4.jpg",
+    "static/media/team-4.jpg": "/reactwebsite.git/static/media/team-4.81d69fc4836c1b76f379.jpg",
+    "static/media/logo.png": "/reactwebsite.git/static/media/logo.567ce9640c6da5ff6b11.png",
+    "static/media/team-2.jpg": "/reactwebsite.git/static/media/team-2.113cf5a46ae35f48a549.jpg",
+    "static/media/team-3.jpg": "/reactwebsite.git/static/media/team-3.936504fda13ca4c81eaa.jpg",
+    "static/media/slick.svg": "/reactwebsite.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/reactwebsite.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/reactwebsite.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/reactwebsite.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/reactwebsite.git/index.html",
+    "main.00547a85.css.map": "/reactwebsite.git/static/css/main.00547a85.css.map",
+    "main.d48a79fd.js.map": "/reactwebsite.git/static/js/main.d48a79fd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactwebsite.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00547a85.css",
+    "static/js/main.d48a79fd.js"
+  ]
+}
